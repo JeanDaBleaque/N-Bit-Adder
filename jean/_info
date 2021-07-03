@@ -1,0 +1,299 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Efull_adder
+Z0 w1625251968
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 45
+Z3 dC:/Users/Jean/Desktop/FPGA Projects
+Z4 8C:/Users/Jean/Desktop/FPGA Projects/full_adder.vhd
+Z5 FC:/Users/Jean/Desktop/FPGA Projects/full_adder.vhd
+l0
+L4 1
+VD8D3zC4nO7ZG2ilj_G_GD1
+!s100 J[o_<ACa^SljmjKIiUbC>2
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1625251973
+!i10b 1
+Z8 !s108 1625251973.000000
+Z9 !s90 -reportprogress|300|-work|jean|-2002|-explicit|-stats=none|C:/Users/Jean/Desktop/FPGA Projects/full_adder.vhd|
+!s107 C:/Users/Jean/Desktop/FPGA Projects/full_adder.vhd|
+!i113 1
+Z10 o-work jean -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Afull_adder
+R1
+R2
+Z12 DEx4 work 10 full_adder 0 22 D8D3zC4nO7ZG2ilj_G_GD1
+!i122 45
+l29
+Z13 L14 36
+Z14 VKYKHW^j3CmQ:kMXeR0If62
+Z15 !s100 oAIP0:FCHegRENJ2EZQgZ3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z16 !s107 C:/Users/Jean/Desktop/FPGA Projects/full_adder.vhd|
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 10 full_adder 0 22 f<ahfzV5kUikfKaCLSGJ:1
+!i122 40
+l31
+L14 40
+VV=m8oWX8Y]c9GS;lP>nz`3
+!s100 >C6omU@BAl_[3o>=NDNj:1
+R6
+32
+!s110 1625199984
+!i10b 1
+Z17 !s108 1625199983.000000
+Z18 !s90 -reportprogress|300|-work|jean|-2002|-explicit|-stats=none|C:\Users\Jean\Desktop\FPGA Projects\full_adder.vhd|
+Z19 !s107 C:\Users\Jean\Desktop\FPGA Projects\full_adder.vhd|
+!i113 1
+R10
+R11
+w1625199949
+Z20 FC:\Users\Jean\Desktop\FPGA Projects\full_adder.vhd
+Z21 8C:\Users\Jean\Desktop\FPGA Projects\full_adder.vhd
+Ehalf_adder
+Z22 w1625197976
+R1
+R2
+!i122 41
+R3
+Z23 8C:\Users\Jean\Desktop\FPGA Projects\half_adder.vhd
+Z24 FC:\Users\Jean\Desktop\FPGA Projects\half_adder.vhd
+l0
+L4 1
+VOL]zOIJE3f_W6eaQG4j7V3
+!s100 :Fh;kon<]JZ0f0z>8jM3B2
+R6
+32
+Z25 !s110 1625200277
+!i10b 1
+Z26 !s108 1625200277.000000
+Z27 !s90 -reportprogress|300|-work|jean|-2002|-explicit|-stats=none|C:\Users\Jean\Desktop\FPGA Projects\half_adder.vhd|
+Z28 !s107 C:\Users\Jean\Desktop\FPGA Projects\half_adder.vhd|
+!i113 1
+R10
+R11
+Ahalf_adder
+R1
+R2
+DEx4 work 10 half_adder 0 22 OL]zOIJE3f_W6eaQG4j7V3
+!i122 41
+l14
+L13 5
+VA5eX:aRbz0f]=B>0iz>Vh2
+!s100 Q7kSm;1zf^:=gi_R<YU<J1
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 10 half_adder 0 22 Gn6cPRLz:VoUBSRccFQkA1
+!i122 37
+l15
+L13 8
+V2FE6G7N8TElCo1CAWfIQH2
+!s100 U9TmWU`n4O6@^9U9YlI^H0
+R6
+32
+Z29 !s110 1625199983
+!i10b 1
+R17
+R27
+R28
+!i113 1
+R10
+R11
+Z30 w1625199948
+Einterface
+Z31 w1625198629
+R1
+R2
+!i122 43
+R3
+Z32 8C:\Users\Jean\Desktop\FPGA Projects\interface.vhd
+Z33 FC:\Users\Jean\Desktop\FPGA Projects\interface.vhd
+l0
+L4 1
+V4RVDHJZe99boPE>ZegP^Y2
+!s100 a1:9?1jjTQh?<gYVm`gmL3
+R6
+32
+R25
+!i10b 1
+R26
+Z34 !s90 -reportprogress|300|-work|jean|-2002|-explicit|-stats=none|C:\Users\Jean\Desktop\FPGA Projects\interface.vhd|
+Z35 !s107 C:\Users\Jean\Desktop\FPGA Projects\interface.vhd|
+!i113 1
+R10
+R11
+Ainterface
+R1
+R2
+DEx4 work 9 interface 0 22 4RVDHJZe99boPE>ZegP^Y2
+!i122 43
+l31
+L16 29
+Vk;2N;f:PWk`fHH<RjXTHz1
+!s100 JAYIKT=e:0Ne<Xhi6k2kV1
+R6
+32
+R25
+!i10b 1
+R26
+R34
+R35
+!i113 1
+R10
+R11
+En_bit_adder
+Z36 w1625198464
+R1
+R2
+!i122 42
+R3
+Z37 8C:\Users\Jean\Desktop\FPGA Projects\n_bit_adder.vhd
+Z38 FC:\Users\Jean\Desktop\FPGA Projects\n_bit_adder.vhd
+l0
+L4 1
+VVNI^Ho_74UVP[?OUc[T>I0
+!s100 jX^PZ_onS@=L3U^MTANgm2
+R6
+32
+R25
+!i10b 1
+R26
+Z39 !s90 -reportprogress|300|-work|jean|-2002|-explicit|-stats=none|C:\Users\Jean\Desktop\FPGA Projects\n_bit_adder.vhd|
+Z40 !s107 C:\Users\Jean\Desktop\FPGA Projects\n_bit_adder.vhd|
+!i113 1
+R10
+R11
+An_bit_adder
+R1
+R2
+DEx4 work 11 n_bit_adder 0 22 VNI^Ho_74UVP[?OUc[T>I0
+!i122 42
+l31
+L17 30
+V?C9P[bS1AeWDcKS`TfHF?2
+!s100 Al<L[8E=9Q^:j:EI]^gmK3
+R6
+32
+R25
+!i10b 1
+R26
+R39
+R40
+!i113 1
+R10
+R11
+Enbit_adder
+Z41 w1625199947
+R1
+R2
+!i122 38
+R3
+R37
+R38
+l0
+L4 1
+VVJ8bWifYeT9E03eGUlX]R1
+!s100 a[CD=Q9I]Vz9Qz[k06H@X2
+R6
+32
+R29
+!i10b 1
+R17
+R39
+R40
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 10 nbit_adder 0 22 VJ8bWifYeT9E03eGUlX]R1
+!i122 38
+l32
+L17 33
+VFj<9niUlPj>e6gLz^V@kn2
+!s100 ^J__96YW[W8bA;_MHEhJc2
+R6
+32
+R29
+!i10b 1
+R17
+R39
+R40
+!i113 1
+R10
+R11
+Etop
+R30
+R1
+R2
+!i122 39
+R3
+R32
+R33
+l0
+L4 1
+V6mEo7Vhg>Y]RLQB[CC7@91
+!s100 bb2fnL63f;1lVkPjZQW;01
+R6
+32
+R29
+!i10b 1
+R17
+R34
+R35
+!i113 1
+R10
+R11
+Abehavioral
+R1
+R2
+DEx4 work 3 top 0 22 6mEo7Vhg>Y]RLQB[CC7@91
+!i122 39
+l31
+L15 32
+V?A_G>n@mW^kUMX_JcG2R^3
+!s100 gI=D@eA6edi`6=[^6U1Fl2
+R6
+32
+R29
+!i10b 1
+R17
+R34
+R35
+!i113 1
+R10
+R11
